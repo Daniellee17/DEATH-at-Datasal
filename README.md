@@ -1,6 +1,7 @@
 # DEATH-at-Datasal
+Created by: Danielle Espiritu and Tammy Capa<br /> <br />
+
 A web application using Java (Netbeans). DEATH at Datasal, a crime investigation game. <br />
-Created by: Danielle Espiritu and Tammy Capa<br />
 
 LOCATIONS in-game
 
