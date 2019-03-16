@@ -1,7 +1,7 @@
 # DEATH-at-Datasal
 
 <h3>Created by: Danielle Espiritu and Tammy Capa</h3>
-A DATASL project, august 2017 <br /> <br />
+A DATASAL project, august 2017 <br /> <br />
 A java application using Netbeans. DEATH at Datasal, a crime investigation game. Data structures and algorithms concepts included.  <br />
 
 <h3> IMPORTING .JAR FILES </h3>
