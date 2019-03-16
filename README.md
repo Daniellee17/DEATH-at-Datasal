@@ -7,8 +7,13 @@ IMPORTING .JAR FILES
 
 ![image](https://user-images.githubusercontent.com/28699887/54470859-77d6dc80-47ea-11e9-93c4-f41dae30832f.png)
 
-SCREENS
+SAMPLE SCREENS
 
+![image](https://user-images.githubusercontent.com/28699887/54470895-0cd9d580-47eb-11e9-93a2-e83290568bfd.png)
+![image](https://user-images.githubusercontent.com/28699887/54470900-224eff80-47eb-11e9-874b-cb5b8a54badc.png)
+![image](https://user-images.githubusercontent.com/28699887/54470903-2aa73a80-47eb-11e9-8475-41d9f314bc3d.png)
+![image](https://user-images.githubusercontent.com/28699887/54470906-34c93900-47eb-11e9-9e36-a6131ae57aea.png)
+![image](https://user-images.githubusercontent.com/28699887/54470916-5f1af680-47eb-11e9-93f7-79fee61ddc85.png)
 
 
 LOCATIONS in-game
