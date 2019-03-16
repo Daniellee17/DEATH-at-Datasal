@@ -13,6 +13,10 @@ SAMPLE SCREENS
 ![image](https://user-images.githubusercontent.com/28699887/54470903-2aa73a80-47eb-11e9-8475-41d9f314bc3d.png)
 ![image](https://user-images.githubusercontent.com/28699887/54470906-34c93900-47eb-11e9-9e36-a6131ae57aea.png)
 ![image](https://user-images.githubusercontent.com/28699887/54470916-5f1af680-47eb-11e9-93f7-79fee61ddc85.png)
+![image](https://user-images.githubusercontent.com/28699887/54470936-a0130b00-47eb-11e9-810a-bba1448458d8.png)
+![image](https://user-images.githubusercontent.com/28699887/54470944-adc89080-47eb-11e9-972f-b29d3de07c3e.png)
+![image](https://user-images.githubusercontent.com/28699887/54470948-bc16ac80-47eb-11e9-9c49-64679db3aa6d.png)
+
 
 
 LOCATIONS in-game
