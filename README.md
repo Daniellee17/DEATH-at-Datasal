@@ -3,6 +3,14 @@ Created by: Danielle Espiritu and Tammy Capa<br />
 
 A java application using Netbeans. DEATH at Datasal, a crime investigation game.  <br />
 
+IMPORTING .JAR FILES
+
+![image](https://user-images.githubusercontent.com/28699887/54470859-77d6dc80-47ea-11e9-93c4-f41dae30832f.png)
+
+SCREENS
+
+
+
 LOCATIONS in-game
 
 Main Road (1st Street): This is the very first location of our game. This is where the story starts. You play as a detective tasked to solve the murder of Melvin K. Bridges, the former mayor of DATASAL town.
