@@ -16,6 +16,11 @@ SAMPLE SCREENS
 ![image](https://user-images.githubusercontent.com/28699887/54470936-a0130b00-47eb-11e9-810a-bba1448458d8.png)
 ![image](https://user-images.githubusercontent.com/28699887/54470944-adc89080-47eb-11e9-972f-b29d3de07c3e.png)
 ![image](https://user-images.githubusercontent.com/28699887/54470948-bc16ac80-47eb-11e9-9c49-64679db3aa6d.png)
+![image](https://user-images.githubusercontent.com/28699887/54470967-fa13d080-47eb-11e9-8d10-3595fbcc0187.png)
+![image](https://user-images.githubusercontent.com/28699887/54470975-1adc2600-47ec-11e9-8b65-e77a70d0123c.png)
+![image](https://user-images.githubusercontent.com/28699887/54470979-2596bb00-47ec-11e9-9380-6bcaa975d086.png)
+![image](https://user-images.githubusercontent.com/28699887/54470983-2e878c80-47ec-11e9-8f6f-3a5600bce3b5.png)
+
 
 
 
