@@ -4,7 +4,7 @@ Created by: Danielle Espiritu and Tammy Capa<br />
 
 A java application using Netbeans. DEATH at Datasal, a crime investigation game. Data structures and algorithms concepts included.  <br />
 
-<h2> IMPORTING .JAR FILES </h2>
+<h3> IMPORTING .JAR FILES </h3>
 
 ![image](https://user-images.githubusercontent.com/28699887/54470859-77d6dc80-47ea-11e9-93c4-f41dae30832f.png)
 
